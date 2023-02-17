@@ -31,23 +31,23 @@ It will be a dating application with standard swipe left and right features, cha
 # -FEATURE DUMP
 
 •	Feature: Home Page/ Landing Page
-  *User Story: As a user, I would love to have an area that I can go to, to select potential matches. This is also the first page I would see, after entering the app.
+  -User Story: As a user, I would love to have an area that I can go to, to select potential matches. This is also the first page I would see, after entering the app.
 
 •	Feature: Password authentication
-  *User Story: Personally, I have never been hacked. This is because I always take extra precautions and measures into securing my online accounts. Therefore, I want the user to feel this secured, and ensure that the user’s information and data are safely secured.
+  -User Story: Personally, I have never been hacked. This is because I always take extra precautions and measures into securing my online accounts. Therefore, I want the user to feel this secured, and ensure that the user’s information and data are safely secured.
 
 •	Feature: Sign in/ Sign up Page
-  *User Story: As a user, I would love to be given the option to create a new account if I’m new, or sign into my account, given I am already a user. I should not be able to create a new account with an email that has already been used. 
+  -User Story: As a user, I would love to be given the option to create a new account if I’m new, or sign into my account, given I am already a user. I should not be able to create a new account with an email that has already been used. 
 
 •	Feature: Email Authentication
-  *User Story: As a user, I would love to know that I am the only one that can use my email to create an account.
+  -User Story: As a user, I would love to know that I am the only one that can use my email to create an account.
 
 •	Feature: Messages/Chat  
-  *User Story: As a user, I want to be able to chat or message potential matches to form greater bonds.
+  -User Story: As a user, I want to be able to chat or message potential matches to form greater bonds.
 
 •	Feature: User Profile
-  *User Story: As a user, I want to have a section where I can set up preferences, likes, personal settings, etc., on my account. This is information I can make private or public.
+  -User Story: As a user, I want to have a section where I can set up preferences, likes, personal settings, etc., on my account. This is information I can make private or public.
 
 •	Feature: Likes/Matches
-  *User Story: As a user, I want to like another user on the platform, and know that this information is saved, so I can message the person later. I would also like to be notified is when this user is also a match to me.
+  -User Story: As a user, I want to like another user on the platform, and know that this information is saved, so I can message the person later. I would also like to be notified is when this user is also a match to me.
 
