@@ -2,6 +2,7 @@
 
 <details>
 <summary> Read More </summary>
+
   
 Not Another Dating App, is a dating website developed to tackle the unconventional ways of online dating.
 
@@ -15,7 +16,7 @@ The contributors to this project are Ashanique Moore and Dachanelle Anderson.
 
 </details>
 
-# -ONE PAGER
+## -ONE PAGER
 
 <details>
 <summary> Read More </summary>
@@ -40,7 +41,7 @@ It will be a dating application with standard swipe left and right features, cha
 </details>
 
 
-# -FEATURE DUMP
+## -FEATURE DUMP
 
 <details>
 <summary> Read More </summary>
