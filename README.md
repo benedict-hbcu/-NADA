@@ -30,8 +30,8 @@ It will be a dating application with standard swipe left and right features, cha
 
 # -FEATURE DUMP
 
-•	Feature: Home Page/ Landing Page
-  -User Story: As a user, I would love to have an area that I can go to, to select potential matches. This is also the first page I would see, after entering the app.
+- Feature: Home Page/ Landing Page
+-   User Story: As a user, I would love to have an area that I can go to, to select potential matches. This is also the first page I would see, after entering the app.
 
 •	Feature: Password authentication
   -User Story: Personally, I have never been hacked. This is because I always take extra precautions and measures into securing my online accounts. Therefore, I want the user to feel this secured, and ensure that the user’s information and data are safely secured.
