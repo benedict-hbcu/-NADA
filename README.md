@@ -31,10 +31,10 @@ It will be a dating application with standard swipe left and right features, cha
 # -FEATURE DUMP
 
 - Feature: Home Page/ Landing Page
-  -User Story: As a user, I would love to have an area that I can go to, to select potential matches. This is also the first page I would see, after entering the app.
+  - User Story: As a user, I would love to have an area that I can go to, to select potential matches. This is also the first page I would see, after entering the app.
 
-•	Feature: Password authentication
-  -User Story: Personally, I have never been hacked. This is because I always take extra precautions and measures into securing my online accounts. Therefore, I want the user to feel this secured, and ensure that the user’s information and data are safely secured.
+- Feature: Password authentication
+  - User Story: Personally, I have never been hacked. This is because I always take extra precautions and measures into securing my online accounts. Therefore, I want the user to feel this secured, and ensure that the user’s information and data are safely secured.
 
 •	Feature: Sign in/ Sign up Page
   -User Story: As a user, I would love to be given the option to create a new account if I’m new, or sign into my account, given I am already a user. I should not be able to create a new account with an email that has already been used. 
